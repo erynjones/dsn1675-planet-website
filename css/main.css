@@ -91,5 +91,12 @@ p {
   .space {
     padding-right: 1em;
   }
+}
+
+@media only screen and (min-width: 60em) {
+
+  .space {
+    padding-right: 0em;
+  }
 
 }
