@@ -225,6 +225,17 @@ footer {
   footer nav {
     text-align: center;
   }
+
+  h2 {
+    padding-right: .5em;
+    padding-left: .5em;
+    padding-bottom: .5em;
+  }
+
+  p {
+    padding-right: 1em;
+    padding-left: 1em;
+  }
 }
 
 @media only screen and (min-width: 90em) {
