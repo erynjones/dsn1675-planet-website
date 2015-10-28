@@ -181,6 +181,11 @@ a {
     padding-left: 1em;
   }
 
+  h4 {
+    padding-right: .80em;
+    padding-left: .80em;
+  }
+
 
 }
 
