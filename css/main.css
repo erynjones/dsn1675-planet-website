@@ -27,9 +27,11 @@ p {
   margin: 0;
 }
 
-h2 {
+h2,h3,h4 {
   margin: 0;
 }
+
+
 
 .center {
   text-align: center;
@@ -101,9 +103,17 @@ footer {
   margin-top: 0;
 }
 
+.lightestgrey {
+  background-color: #efefef;
+}
+
 .lightgrey {
   background-color: #e2e2e2;
   margin: 0;
+}
+
+.darkgrey {
+  background-color: #1579db;
 }
 
 .block {
