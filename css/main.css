@@ -114,7 +114,10 @@ footer {
   display: block;
 }
 
-
+a {
+  text-decoration: none;
+  color: #99b4ce;
+}
 
 @media only screen and (min-width: 24em) {
 
