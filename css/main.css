@@ -79,6 +79,11 @@ footer nav {
   padding: 1em;
 }
 
+.pad {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
 dd {
   margin: 0;
 }
