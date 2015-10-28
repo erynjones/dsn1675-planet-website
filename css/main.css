@@ -79,11 +79,6 @@ footer nav {
   padding: 1em;
 }
 
-.pad {
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-
 dd {
   margin: 0;
 }
@@ -154,6 +149,11 @@ a {
     padding-right: 1em;
   }
 
+  pad {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
 }
 
 @media only screen and (min-width: 60em) {
@@ -180,6 +180,8 @@ a {
     padding-right: 1em;
     padding-left: 1em;
   }
+
+
 }
 
 @media only screen and (min-width: 90em) {
